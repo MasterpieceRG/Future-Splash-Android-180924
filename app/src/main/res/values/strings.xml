@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Future Splash</string>
+    <string name="name_text">Name</string>
+    <string name="age_text">Age</string>
+    <string name="submit_text">SUBMIT</string>
+    <string name="go_back_text">GO BACK</string>
+    <string name="output_text">Output</string>
+</resources>
