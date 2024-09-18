@@ -35,6 +35,7 @@ class MainActivity : AppCompatActivity() {
                 intent.putExtra("name", name)
                 intent.putExtra("age", age)
                 startActivity(intent)
+                finish()
             }
         }
     }
